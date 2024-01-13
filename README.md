@@ -21,8 +21,8 @@ I am very dedicated, perfectionist, organized and resilient.
 ![JavaScript](https://img.shields.io/badge/JavaScript-E3C6FF?style=for-the-badge&logo=javascript&logoColor=d98cd9)
 ![HTML5](https://img.shields.io/badge/HTML5-E3C6FF?style=for-the-badge&logo=html5&logoColor=d98cd9)
 ![CSS3](https://img.shields.io/badge/CSS3-E3C6FF?style=for-the-badge&logo=css3&logoColor=d98cd9)
-![React](https://img.shields.io/badge/React-E3C6FF?style=for-the-badge&logo=react&logoColor=d98cd9)
 ![TypeScript](https://img.shields.io/badge/TypeScript-E3C6FF?style=for-the-badge&logo=typescript&logoColor=d98cd9)
+![Angular](https://img.shields.io/badge/Angular-E3C6FF?style=for-the-badge&logo=angular&logoColor=d98cd9) 
 
 
 ## GitHub Stats
