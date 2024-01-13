@@ -30,7 +30,4 @@ I am very dedicated, perfectionist, organized and resilient.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cute1998&theme=transparent&bg_color=A462E6&border_color=993399&show_icons=true&icon_color=993399&title_color=E3C6FF&text_color=E3C6FF)
 
 
-Card - Most Used Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cute1998&theme=transparentbg_color=A462E6&border_color=993399&title_color=E3C6FF&text_color=E3C6FF)
-
 
