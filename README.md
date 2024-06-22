@@ -1,3 +1,9 @@
+
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>Bem-vindo ao GitHub de Cute1998
+
+![github-header-image (1)](https://github.com/Cute1998/dio-lab-open-source/assets/125381238/c1ad98a9-8755-4bf6-af5b-9823ea8000f6)
+
+
 # Cute1998
 
 Front-end developer from Rio de Janeiro-RJ, Brazil, My first "Hello World" HTML, CSS and JavaScript, was during the coronavirus pandemic where I became curious and fascinated at the same time when I discovered programming.
